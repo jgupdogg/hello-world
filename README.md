@@ -1,2 +1,2 @@
 # hello-world
-My first Github repository!!  I am excited :D
+I learned programming because my professor insisted he could not code my thesis into fortran.  So I learned C++ to do it myself and now im here!
